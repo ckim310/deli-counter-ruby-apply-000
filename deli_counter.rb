@@ -2,3 +2,5 @@
 function take_a_number(arr, first_name) {
   
 }
+
+take_a_number()
