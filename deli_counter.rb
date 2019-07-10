@@ -1,5 +1,5 @@
 # Write your code here.
-function take_a_number(katz_deli, first_name) {
+function take_a_number(deli, first_name) {
   
 }
 
